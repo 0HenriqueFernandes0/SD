@@ -1,4 +1,5 @@
-# SD
+## Distributed Systems
+
 In the context of the Distributed Systems class, my work group built a
 command line client and server applications to manage rented scooters
 within a specific delimited perimeter. This project involved using multiple
